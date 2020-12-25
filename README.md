@@ -11,17 +11,17 @@ I am a software engineer,web developer,data scientist, business analyst and a wr
 
 #### Websites & Services
 
+[JobsMv Telegram Channel](https://t.me/jobsmv)
+
+[BidsMv Telegram Channel](https://t.me/bidsmv)
+
 [SME Maldives](https://smemaldives.com)
 
 [Botamate](https://botamate.online)
 
 [GenerateFiles.com](https://generatefiles.com)
 
-[JobsMv Telegram Channel](https://t.me/jobsmv)
-
-[BidsMv Telegram Channel](https://t.me/bidsmv)
-
-[Kinbodhoo.com](https://kinbidhoo.com)
+[Kinbidhoo.com](https://kinbidhoo.com)
 
 <!--
 **mohamed-aiman/mohamed-aiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
