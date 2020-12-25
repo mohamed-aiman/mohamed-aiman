@@ -6,8 +6,8 @@ I am a software engineer,web developer,data scientist, business analyst and a wr
 #### Contact Links
 [LinkedIn](https://linkedin.com/in/muhammadhuaiman) | [AboutMe](https://about.me/aimme) | [Twitter](https://twitter.com/mohamed_aiman) | [Facebook](https://fb.com/muhammadhu.aiman) | [Instagram](https://instagram.com/muhammadhu.aiman)
 
-#### Other Links
-[Voice Mv Profile](https://voice.mv/author/36) | [Blog](https://mohamedaiman.me) | [Medium](https://medium.com/@aimme)
+#### More Profiles...
+[Voice Mv](https://voice.mv/author/36) | [Blog](https://mohamedaiman.me) | [Medium](https://medium.com/@aimme)
 
 #### Websites & Services
 
