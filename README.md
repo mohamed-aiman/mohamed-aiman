@@ -4,7 +4,7 @@ I am a software engineer,web developer,data scientist, business analyst and a wr
 
 
 #### Contact Links
-[AboutMe](https://about.me/aimme) | [Twitter](https://twitter.com/mohamed_aiman) | [Facebook](https://fb.com/muhammadhu.aiman) | [Instagram](https://instagram.com/muhammadhu.aiman) | [LinkedIn](https://linkedin.com/in/muhammadhuaiman)
+[LinkedIn](https://linkedin.com/in/muhammadhuaiman) | [AboutMe](https://about.me/aimme) | [Twitter](https://twitter.com/mohamed_aiman) | [Facebook](https://fb.com/muhammadhu.aiman) | [Instagram](https://instagram.com/muhammadhu.aiman)
 
 ### Other Links
 [Blog](https://mohamedaiman.me) | [Medium](https://medium.com/@aimme) | [Voice Mv](https://voice.mv/author/36)
