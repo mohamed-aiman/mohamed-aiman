@@ -7,19 +7,21 @@ I am a software engineer,web developer,data scientist, business analyst and a wr
 [LinkedIn](https://linkedin.com/in/muhammadhuaiman) | [AboutMe](https://about.me/aimme) | [Twitter](https://twitter.com/mohamed_aiman) | [Facebook](https://fb.com/muhammadhu.aiman) | [Instagram](https://instagram.com/muhammadhu.aiman)
 
 #### Other Links
-[Voice Mv Profile](https://voice.mv/author/36) | [Blog](https://mohamedaiman.me) | [Medium](https://medium.com/@aimme) | [Kinbodhoo.com](https://kinbidhoo.com)
+[Voice Mv Profile](https://voice.mv/author/36) | [Blog](https://mohamedaiman.me) | [Medium](https://medium.com/@aimme)
 
 #### Websites & Services
 
-https://smemaldives.com
+[SME Maldives](https://smemaldives.com)
 
-https://botamate.online
+[Botamate](https://botamate.online)
 
-https://generatefiles.com
+[GenerateFiles.com](https://generatefiles.com)
 
-https://t.me/jobsmv
+[JobsMv Telegram Channel](https://t.me/jobsmv)
 
-https://t.me/bidsmv
+[BidsMv Telegram Channel](https://t.me/bidsmv)
+
+[Kinbodhoo.com](https://kinbidhoo.com)
 
 <!--
 **mohamed-aiman/mohamed-aiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
