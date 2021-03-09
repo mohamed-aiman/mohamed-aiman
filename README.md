@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a software engineer,web developer,data scientist, business analyst and a writer. I am from Maldives 🇲🇻  and currently living in Malaysia 🇲🇾. My interests range from technology to travel. I am also interested in entrepreneurship, programming, automation and innovation.
+I am a software engineer, web developer, data scientist, business analyst and a writer from Maldives. I am currently living in Malaysia. My interests range from technology to travel. I am also interested in automation, innovation and entrepreneurship.
 
 
 #### Contact Links
